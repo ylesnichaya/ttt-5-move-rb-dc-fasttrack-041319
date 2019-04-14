@@ -8,5 +8,8 @@ end
 
 # code your input_to_index and move method here!
 
+user_input = gets.strip
+converted_input = 
 def input_to_index(user_input)
-  
+  puts 
+end
